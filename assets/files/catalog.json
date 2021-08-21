@@ -1,0 +1,21 @@
+{
+    "products": [
+        {
+            "id": "FNRKY001",
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+        },
+
+        {
+            "id": "FNRKY001",
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#00ac51",
+            "image": "https://lh3.googleusercontent.com/acfYFwP4OteHL-i2vr0IPcmiLlaqsWqGU7_0KPgHfDiNHUCPOmDSmeb42ps7V4ganqdF6sLI7tnzY1tCy3-X=w830"
+        }
+    ]
+}
